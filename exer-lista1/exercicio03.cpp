@@ -1,3 +1,6 @@
+// Grupo: Gustavo de Jesus Borges
+// RA: 90390
+
 #include <stdio.h>
 
 int main () {
